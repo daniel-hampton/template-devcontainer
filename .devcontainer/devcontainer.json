@@ -42,14 +42,18 @@
 
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
-    "GitHub.vscode-pull-request-github",
-    "dbaeumer.vscode-eslint",
-    "pkief.material-icon-theme",
-    "mhutchie.git-graph",
-    "bradlc.vscode-tailwindcss",
-    "gruntfuggly.todo-tree",
-    "esbenp.prettier-vscode"
-  ],
+	"GitHub.vscode-pull-request-github",
+	"dbaeumer.vscode-eslint",
+	"esbenp.prettier-vscode",
+	"pkief.material-icon-theme",
+	"mhutchie.git-graph",
+	"bradlc.vscode-tailwindcss",
+	"gruntfuggly.todo-tree",
+	"naumovs.color-highlight",
+	"clinyong.vscode-css-modules",
+	"eamodio.gitlens",
+	"yatki.vscode-surround",
+],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
